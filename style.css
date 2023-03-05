@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+footer p {
+    background-color: greenyellow;
+}
+
+main nav {
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+main a {
+    margin: 16px;
+}
+
+main p {
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+
+h2 {
+    color: purple;
+}
+
+.kontakt {
+    border: 2px solid blue;
+}
